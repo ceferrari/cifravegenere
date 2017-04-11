@@ -64,7 +64,7 @@ namespace CifraVigenere
             var texto = Console.ReadLine().ToUpper();
             Console.WriteLine();
 
-            Console.WriteLine("Informe chave:");
+            Console.WriteLine("Informe a chave:");
             var chave = Console.ReadLine().ToUpper();
             Console.WriteLine();
 
